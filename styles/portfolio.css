@@ -158,3 +158,27 @@ margin-bottom: 20px;
     margin-top: 50px;
     text-align: center;
 }
+.contact .section-title{
+    text-align: left;
+}
+.what-i-do{
+    display: flex;
+    gap: 27px;
+}
+.contact{
+    display: flex;
+    gap: 100px;
+    background: #FFF8F3;
+    padding: 130px 200px;
+}
+.contact input[type="text"],input[type="email"] textarea{
+    margin-bottom: 24px;
+    width: 100%;
+    padding: 18px 30px;
+}
+input{
+    height: 37px;
+}
+.contact a{
+    text-decoration: none;
+}
